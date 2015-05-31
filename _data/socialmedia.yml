@@ -1,42 +1,42 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: 
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: ""
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/tomasruizlopez
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow me on Twitter"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: 
   class: icon-facebook
-  title: "Lass uns Freunde sein!"
+  title: ""
 
 - name: Soundcloud
-  url: http://soundcloud.com/phlow
+  url: 
   class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+  title: ""
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/truizlop
   class: icon-github
-  title: Code und mehr...
+  title: "Fork me on GitHub"
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: 
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: ""
 
 - name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
+  url: 
   class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+  title: ""
 
 - name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+  url: 
   class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: ""
 
 # - name: Xing
 #   url: https://www.xing.com/profile/Moritzmo_Sauer
