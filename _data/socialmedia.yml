@@ -1,42 +1,42 @@
-- name: YouTube
-  url: 
-  class: icon-youtube
-  title: ""
+# - name: YouTube
+#  url: 
+#  class: icon-youtube
+#  title: ""
 
 - name: Twitter
   url: http://twitter.com/tomasruizlopez
   class: icon-twitter
   title: "Follow me on Twitter"
 
-- name: Facebook
-  url: 
-  class: icon-facebook
-  title: ""
+#- name: Facebook
+#  url: 
+#  class: icon-facebook
+#  title: ""
 
-- name: Soundcloud
-  url: 
-  class: icon-soundcloud
-  title: ""
+#- name: Soundcloud
+#  url: 
+#  class: icon-soundcloud
+#  title: ""
 
 - name: GitHub
   url: http://github.com/truizlop
   class: icon-github
   title: "Fork me on GitHub"
 
-- name: Instagram
-  url: 
-  class: icon-instagram
-  title: ""
+#- name: Instagram
+#  url: 
+#  class: icon-instagram
+#  title: ""
 
-- name: Pinterest
-  url: 
-  class: icon-pinterest
-  title: ""
+#- name: Pinterest
+#  url: 
+#  class: icon-pinterest
+#  title: ""
 
-- name: Mixcloud
-  url: 
-  class: icon-cloud
-  title: ""
+#- name: Mixcloud
+#  url: 
+#  class: icon-cloud
+#  title: ""
 
 # - name: Xing
 #   url: https://www.xing.com/profile/Moritzmo_Sauer
