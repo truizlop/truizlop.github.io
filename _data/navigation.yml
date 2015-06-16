@@ -1,4 +1,4 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -6,9 +6,9 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: Blog
+  - title: Posts
     url: "/blog/"
-  - title: "Blog Archive"
+  - title: "Archive"
     url: "/blog/archive/"
 
 - title: "Search"

@@ -8,6 +8,11 @@
   class: icon-twitter
   title: "Follow me on Twitter"
 
+- name: LinkedIn
+  url: https://www.linkedin.com/profile/view?id=58128407
+  class: icon-linkedin
+  title: "Add me on LinkedIn"
+  
 #- name: Facebook
 #  url: 
 #  class: icon-facebook
