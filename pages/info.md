@@ -26,8 +26,6 @@ header:
 * Multiple possibilities to use images in different ways
 * Fine typography
 
-
-
 ## I got inspired by...
 
 [Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
