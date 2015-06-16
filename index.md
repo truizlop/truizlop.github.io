@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Tomás Ruiz-López | Ph.D. Information and Communication Technologies"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_main.png"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
