@@ -13,8 +13,8 @@ Please, fill this form to contact me:
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!--<input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />-->
   <!-- all your input fields here.... -->
-  <input type='text' name='Name' />
-  <input type='text' name='Email' />
-  <textarea name='Message' />
-  <input type='submit' value='Submit' />
+  <input class="form-control" type="text" name="name" placeholder="Name" />
+  <input class="form-control" type="text" name="email" placeholder="Email" />
+  <textarea class="form-control" name="message" placeholder="Message" />
+  <button class="btn btn-primary" type="submit">Submit form</button>
 </form>
