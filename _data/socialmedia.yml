@@ -13,10 +13,10 @@
   class: icon-linkedin
   title: "Add me on LinkedIn"
   
-#- name: Facebook
-#  url: 
-#  class: icon-facebook
-#  title: ""
+- name: Facebook
+  url: https://www.facebook.com/truizlop
+  class: icon-facebook
+  title: "Add me as a friend on Facebook"
 
 #- name: Soundcloud
 #  url: 
@@ -28,10 +28,10 @@
   class: icon-github
   title: "Fork me on GitHub"
 
-#- name: Instagram
-#  url: 
-#  class: icon-instagram
-#  title: ""
+- name: Instagram
+  url: https://instagram.com/tomasruizlopez
+  class: icon-instagram
+  title: "Follow me on Instagram"
 
 #- name: Pinterest
 #  url: 
