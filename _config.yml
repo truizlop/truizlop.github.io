@@ -157,9 +157,8 @@ og_locale:                          "en_EN"
 og_type:                            "website"
 og_title:                           "Tomás Ruiz-López - Ph.D. Information and Communication Technologies"
 og_description:                     "A software development blog"
-# og_url:                           ""
-# og_site_name:                     ""
-
+og_url:                             "https://truizlop.github.io/"
+og_site_name:                       "Tomás Ruiz-López's Dev Blog"
 
 #      _____            _       __   __  ___         ___      
 #     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
