@@ -16,7 +16,6 @@ Later, I received a M.Sc. in Software Engineering and a Ph.D. in Information and
 
 I hope you enjoy the contents of this blog and feel free to [contact](/contact/) me.
 
-
  [1]: #
  [2]: #
  [3]: #
