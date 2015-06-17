@@ -11,6 +11,10 @@
   - title: "Archive"
     url: "/blog/archive/"
 
+- title: About me
+  url: "/info/
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right
