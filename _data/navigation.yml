@@ -6,8 +6,10 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: Posts
+  - title: All Posts
     url: "/blog/"
+  - title: Miscellaneous
+    url: "/misc/"
   - title: "Archive"
     url: "/blog/archive/"
 

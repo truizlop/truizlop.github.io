@@ -18,7 +18,7 @@ widget-1:
 widget-2:
     title: "Blog"
     url: 'https://truizlop.github.io/blog/'
-    text: 'Check out the latest post I am writing. I will mainly blog about software development, but also some other random stuff like tech books and movies. Drop by and leave a comment!'
+    text: 'Check out the latest posts I am writing. I will mainly blog about software development, but also some other random stuff like tech books and movies. Drop by and leave a comment!'
     image: post.png
 
 widget-3:
