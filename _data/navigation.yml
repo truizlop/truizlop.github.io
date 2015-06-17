@@ -12,7 +12,7 @@
     url: "/blog/archive/"
 
 - title: About me
-  url: "/info/
+  url: "/info/"
   side: left
 
 - title: "Search"
