@@ -3,7 +3,7 @@ layout: page
 title: "Press"
 show_meta: false
 teaser: "Articles and interviews where I have appeared"
-permalink: "/info/"
+permalink: "/press/"
 header:
     image_fullwidth: "header_main.png"
 ---
