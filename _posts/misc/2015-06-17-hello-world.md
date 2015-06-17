@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Hello World!
 subheadline: Starting a new adventure
 teaser: Welcome to the very first post in this blog about software development.
