@@ -2,6 +2,14 @@
   url: "/"
   side: left
 
+- title: About me
+  url: "/info/"
+  side: left
+  
+- title: Press
+  url: "/press/"
+  side: left
+  
 - title: Blog
   url: "/blog/"
   side: left
@@ -12,10 +20,6 @@
     url: "/misc/"
   - title: "Archive"
     url: "/blog/archive/"
-
-- title: About me
-  url: "/info/"
-  side: left
 
 - title: "Search"
   url: "/search/"
