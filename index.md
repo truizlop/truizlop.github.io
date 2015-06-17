@@ -8,27 +8,23 @@ layout: frontpage
 title: "Tomás Ruiz-López | Ph.D. Information and Communication Technologies"
 header:
    image_fullwidth: "header_main.png"
+
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "About me"
+    url: 'http://truizlop.github.io/info/'
+    text: 'I am Tomás Ruiz-López, Ph.D. in Information and Communication Technologies. Currently, I am working as a Postdoctoral Researcher at the <a href="http://kreftregisteret.no/" target="_blank">Cancer Registry of Norway</a>, and as Software Design Manager at <a href="http://www.everywaretech.es/" target="_blank">Everyware Technologies</a>'
     image: unsplash_9-302x182.jpg
+    
 widget-2:
-    title: "Why use this theme?"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    title: "Blog"
+    url: 'https://truizlop.github.io/blog/'
+    text: 'Check out the latest post I am writing. I will mainly blog about software development, but also some other random stuff like tech books and movies. Drop by and leave a comment!'
+    image: unsplash_9-302x182.jpg
+
 widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    title: "Check my projects"
+    url: 'https://github.com/truizlop'
+    text: 'I will be open-sourcing some libraries and sharing some code on my GitHub account. Feel free to fork projects, star them, open issues and send your pull requests!'
     image: github-303x182.jpg
 ---
 
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
