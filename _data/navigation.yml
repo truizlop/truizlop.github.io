@@ -16,6 +16,8 @@
   dropdown:
   - title: All Posts
     url: "/blog/"
+  - title: Development
+    url: "/development/"
   - title: Miscellaneous
     url: "/misc/"
   - title: "Archive"
