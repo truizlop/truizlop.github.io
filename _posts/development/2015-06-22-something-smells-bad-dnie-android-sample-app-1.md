@@ -54,7 +54,7 @@ There are two classes, `Compress.java` and `CompressFolder.java`, which semantic
 
 In addition, something even worse dragged my attention in `dnieutils.java`. As you can expect, this class is a utility class which doesn't have any instance variables. The surprise is in the following method:
 
-``` java
+```java
 public class dnieutils{
 	public String parseXML (String tag, String xmldoc){
 		String strModulus = null;
