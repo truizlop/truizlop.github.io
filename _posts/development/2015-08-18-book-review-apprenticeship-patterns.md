@@ -2,6 +2,7 @@
 layout: page
 title: Book Review: Apprenticeship Patterns
 teaser: Either if you are a newbie in the software industry or you already have several years of experience developing software, Apprenticeship Patterns is a good book to reflect about several habits that you acquire along the road and to focus on becoming a better software engineer. Read it and start your journey to become a master software craftsman!
+
 categories:
     - development
 tags:
@@ -57,11 +58,9 @@ At the end of the day, all of this is for you. You have the opportunity to stand
 
 ### Final thoughts
 
-Recently, Dave Hoover gave a presentation at Craft Conf 2015 in Budapest where he revisited some of the patterns in the book. Maybe you want to take a look at the conference here:
-
-<p align="center">
-<iframe width="720" height="437" src="http://www.ustream.tv/embed/recorded/61479554?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-</p>
+Recently, Dave Hoover gave a presentation at Craft Conf 2015 in Budapest where he revisited some of the patterns in the book. Maybe you want to take a look at the conference [here][1].
 
 I think the book is really worth reading it. It is not very long - around 140 pages - so if you already have read it or after reading this post you find it interesting, drop by and leave a comment here!
+
+[1]: http://www.ustream.tv/embed/recorded/61479554?v=3&amp;wmode=direct
 
