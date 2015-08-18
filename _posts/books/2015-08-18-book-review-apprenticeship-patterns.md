@@ -5,7 +5,7 @@ teaser: Either if you are a newbie in the software industry or you already have 
 categories:
     - books
 tags:
-    - books
+    - book review
     - software craftsmanship
     - patterns
 breadcrumb: true

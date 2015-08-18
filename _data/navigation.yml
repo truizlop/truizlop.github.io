@@ -6,10 +6,6 @@
   url: "/info/"
   side: left
   
-- title: Press
-  url: "/press/"
-  side: left
-  
 - title: Blog
   url: "/blog/"
   side: left
