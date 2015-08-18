@@ -18,6 +18,8 @@
     url: "/blog/"
   - title: Development
     url: "/development/"
+  - title: Books
+    url: "/books/"
   - title: Miscellaneous
     url: "/misc/"
   - title: "Archive"
