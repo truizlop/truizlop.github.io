@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Book Review: Apprenticeship Patterns
+title: Book Review - Apprenticeship Patterns
 teaser: Either if you are a newbie in the software industry or you already have several years of experience developing software, Apprenticeship Patterns is a good book to reflect about several habits that you acquire along the road and to focus on becoming a better software engineer. Read it and start your journey to become a master software craftsman!
 
 categories:
-    - development
+    - books
 tags:
     - book review
     - software craftsmanship
