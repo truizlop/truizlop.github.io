@@ -16,7 +16,7 @@ header:
     image_fullwidth: "header_books.png"
 ---
 
-I have previously mentioned this book when wrote about [the important role of psychology in software engineering][1]; by that time I didn't even have the book, but now that I bought it and read [Your Code as a Crime Scene][2], by Adam Tornhill, I believe it deserves a separate post to discuss it.
+I have previously mentioned this book when I wrote about [the important role of psychology in software engineering][1]; by that time I didn't even have the book, but now that I bought it and read [Your Code as a Crime Scene][2], by Adam Tornhill, I believe it deserves a separate post to discuss it.
 
 <p align="center">
 <img width="300" src="https://imagery.pragprog.com/products/426/atcrime.jpg?1426617929"/>
@@ -42,7 +42,13 @@ Finally, Software Engineering is a social discipline and it is reflected as well
 
 Refactoring is a kind of optimization, and as such, it has to be performed with educated decisions based on metrics. **Your Code as a Crime Scene** provides a nice set of tools to obtain such metrics and guide your improvements to your design. It is a great handbook if you have to deal with legacy systems, where you usually have little clue about where to focus your efforts. Even if you don't deal with them, I recommend you to try the tools (they are open source, by the way) in your own repositories - for sure you are going to learn things about your coding style.
 
+---
+
+#### Update
+
+After talking to my colleague [Pablo Guardiola][3], I would like to clarify my statement "Refactoring is a kind of optimization". As I see it, it is about optimizing your code for readability, testability, maintainability or changeability, among other non-functional requirements. Definitely, I didn't mean it is about performance optimization.
 
 [1]: https://truizlop.github.io/development/the-important-role-of-psychology-in-software-engineering/
 [2]: https://pragprog.com/book/atcrime/your-code-as-a-crime-scene
+[3]: https://twitter.com/Guardiola31337
 
