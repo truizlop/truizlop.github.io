@@ -131,6 +131,7 @@ func testConcatLengthIsEqualToSumOfLengths() {
 
 In this case, our partner cannot hardcode any data and we are not leaking implementation details into the test (note that I have added a extension field to `String` to get its length). What other properties does string concatenation have? For instance, if I concatenate three strings `a`, `b` and `c`, I can do `(concat(concat(a, b), c)` or `concat(a, concat(b, c))` and the result is the same. This property is called the **associative property** and can be tested like this:
 
+{% highlight swift %}
 func testConcatIsAssociative() {
     for _ in 0 ..< 100 {
         let a = randomString()
@@ -141,6 +142,7 @@ func testConcatIsAssociative() {
         XCTAssertEqual(result1, result2)
     }
 }
+{% endhighlight %}
 
 And also, if we concatenate the empty string to any other string, we get the same string as a result; this is the **neutral element** property:
 
